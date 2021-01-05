@@ -8,4 +8,8 @@
 - 📫  How to reach me: nguyenlephong1997@gmail.com
 - 📫  CV: https://nguyenlephong.github.io/
 - 📫  My Tools: http://amuletstore.net/
+- 📫  Youtube Channel: https://www.youtube.com/channel/UCVT2aPzoLT4Qj64VpDBvxuw
 
+## Wakatime 2020
+
+![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020")
