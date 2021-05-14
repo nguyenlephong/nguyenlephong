@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Le Phong (Dom)</h1>
-<h3 align="center">A Full-Stack Software Engineer in Viet Nam</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenlephong&color=blueviolet&style=flat">
