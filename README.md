@@ -1,10 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nguyen Le Phong (Dom)</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nguyen Le Phong (Dom)</h1>
 <h3 align="center">A Full-Stack Software Engineer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenlephong&color=blueviolet&style=flat">
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&lines=Welcome%2C+nice+to+meet+you!;Good+morning.+It%E2%80%99s+a+beautiful+day.;Dear+friend.+I+wish+you+all+the+best+on+this+day.)](https://git.io/typing-svg"></a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.youtube.com/c/PhongNguyễnLê0107?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://www.youtube.com/c/PhongNguyễnLê0107">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
+  <a href="https://github.com/nguyenlephong">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nguyenlephong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
 
 - 🔭  I’m currently a FullStack Software Engineer of PrimeDATA.ai
 - 🌱  I’m currently staying at home with my family and enjoy coding our Platform
