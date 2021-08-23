@@ -24,7 +24,7 @@
 - ⚡ Fun fact: enjoy life with coding is real
 - My dream: `while(sleeping){money++;}`
 - 📫 How to reach me: nguyenlephong1997@gmail.com
-- 📫 CV: https://nguyenlephong.github.io/dom-profile
+- 📫 CV: https://nguyenlephong.github.io
 - 📫 My Tools: http://amuletstore.net/
 - 📫 Youtube Channel: https://www.youtube.com/channel/UCVT2aPzoLT4Qj64VpDBvxuw
 
