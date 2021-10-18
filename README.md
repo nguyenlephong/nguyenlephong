@@ -2,7 +2,9 @@
 <h3 align="center">A Full-Stack Software Engineer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenlephong&color=blueviolet&style=flat">
+  <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&lines=Welcome%2C+nice+to+meet+you!;Good+morning.+It%E2%80%99s+a+beautiful+day.;Dear+friend.+I+wish+you+all+the+best+on+this+day.)](https://git.io/typing-svg"></a>
@@ -15,7 +17,9 @@
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
   <a href="https://github.com/nguyenlephong">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nguyenlephong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  
 </p>
+
 
 - 🔭 I’m currently a FullStack Software Engineer of PrimeDATA.ai
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
@@ -158,7 +162,7 @@
 
 
 ### Wakatime 2020
-
+[![wakatime](https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg)](https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570)
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020")
 
 ---
