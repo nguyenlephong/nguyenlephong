@@ -160,9 +160,13 @@
 
 ---
 
+### Wakatime current
+[![wakatime](https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg)](https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570)
+
+### Wakatime 2021
+![WAKATIME 2020_PERSONALIZE](assets/wakatime_2021.png?raw=true "Wakatime 2021")
 
 ### Wakatime 2020
-[![wakatime](https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg)](https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570)
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020")
 
 ---
