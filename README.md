@@ -29,7 +29,8 @@
 - My dream: `while(sleeping){money++;}`
 - 📫 How to reach me: nguyenlephong1997@gmail.com
 - 📫 CV: https://nguyenlephong.github.io
-- 📫 My Tools: http://amuletstore.net/
+- 📫 My Tools: https://nguyenlephong.github.io/tools
+- 📫 My Notes: https://nguyenlephong.github.io/notes
 - 📫 Youtube Channel: https://www.youtube.com/channel/UCVT2aPzoLT4Qj64VpDBvxuw
 
 ### 🛠 &nbsp;Languages and Tools
