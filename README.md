@@ -160,10 +160,14 @@
 ### Wakatime current
 [![wakatime](https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg)](https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570)
 
-### Wakatime 2021
-![WAKATIME 2020_PERSONALIZE](assets/wakatime_2021.png?raw=true "Wakatime 2021")
 
-### Wakatime 2020
+### [Wakatime 2022](https://wakatime.com/a-look-back-at-2022/59b42694-26d5-4035-8d80-267d68314570/vuclxblquu)
+![WAKATIME 2022_PERSONALIZE](assets/wakatime_2022.png?raw=true "Wakatime 2022")
+
+### [Wakatime 2021](https://wakatime.com/a-look-back-at-2021/59b42694-26d5-4035-8d80-267d68314570/rvbveuiouh)
+![WAKATIME 2021_PERSONALIZE](assets/wakatime_2021.png?raw=true "Wakatime 2021")
+
+### [Wakatime 2020](https://wakatime.com/a-look-back-at-2020/59b42694-26d5-4035-8d80-267d68314570/rsbdnhiqcv)
 ![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020")
 
 ---
