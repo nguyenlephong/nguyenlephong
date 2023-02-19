@@ -11,6 +11,11 @@
 </p>
 
 <p align="center">
+  As a front-end software engineer with four years of experience, I have developed a strong skill set in designing and implementing user-friendly web applications. My expertise includes proficiency in <strong>HTML, CSS, JavaScript, and React</strong>, as well as a deep understanding of responsive web design and cross-browser compatibility. With a passion for creating intuitive and visually appealing user interfaces, I have successfully delivered projects for a variety of clients in diverse industries. 
+  My attention to detail, ability to work collaboratively, and dedication to keeping up-to-date with the latest trends and technologies have consistently resulted in high-quality, effective solutions.
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/c/PhongNguyễnLê0107?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
   <a href="https://www.youtube.com/c/PhongNguyễnLê0107">
@@ -21,7 +26,7 @@
 </p>
 
 
-- 🔭 I’m currently a FullStack Software Engineer of PrimeDATA.ai
+- 🔭 I’m currently a Full-stack Software Engineer of PrimeDATA.ai
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
 - 👯 I’m looking to collaborate on Marketing-science based Data Platform
 - 💬 Ask me about Consultant: Java, NodeJS, ReactJS, ReactNative
@@ -162,13 +167,13 @@
 
 
 ### [Wakatime 2022](https://wakatime.com/a-look-back-at-2022/59b42694-26d5-4035-8d80-267d68314570/vuclxblquu)
-![WAKATIME 2022_PERSONALIZE](assets/wakatime_2022.png?raw=true "Wakatime 2022")
+<!-- ![WAKATIME 2022_PERSONALIZE](assets/wakatime_2022.png?raw=true "Wakatime 2022") -->
 
 ### [Wakatime 2021](https://wakatime.com/a-look-back-at-2021/59b42694-26d5-4035-8d80-267d68314570/rvbveuiouh)
-![WAKATIME 2021_PERSONALIZE](assets/wakatime_2021.png?raw=true "Wakatime 2021")
+<!-- ![WAKATIME 2021_PERSONALIZE](assets/wakatime_2021.png?raw=true "Wakatime 2021") -->
 
 ### [Wakatime 2020](https://wakatime.com/a-look-back-at-2020/59b42694-26d5-4035-8d80-267d68314570/rsbdnhiqcv)
-![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020")
+<!-- ![WAKATIME 2020_PERSONALIZE](assets/wakatime_2020.png?raw=true "Wakatime 2020") -->
 
 ---
 
