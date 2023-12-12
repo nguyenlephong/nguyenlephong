@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nguyen Le Phong (Dom)</h1>
-<h3 align="center">A Full-Stack Software Engineer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Phong Nguyen</h1>
+<h3 align="center">Full-Stack Software Engineer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenlephong&color=blueviolet&style=flat">
   <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  As a front-end software engineer with four years of experience, I have developed a strong skill set in designing and implementing user-friendly web applications. My expertise includes proficiency in <strong>HTML, CSS, JavaScript, and React</strong>, as well as a deep understanding of responsive web design and cross-browser compatibility. With a passion for creating intuitive and visually appealing user interfaces, I have successfully delivered projects for a variety of clients in diverse industries. 
+  As a front-end software engineer with five years of experience, I have developed a strong skill set in designing and implementing user-friendly web applications. My expertise includes proficiency in <strong>HTML, CSS, JavaScript, and React</strong>, as well as a deep understanding of responsive web design and cross-browser compatibility. With a passion for creating intuitive and visually appealing user interfaces, I have successfully delivered projects for a variety of clients in diverse industries. 
   My attention to detail, ability to work collaboratively, and dedication to keeping up-to-date with the latest trends and technologies have consistently resulted in high-quality, effective solutions.
 </p>
 
@@ -26,12 +26,11 @@
 </p>
 
 
-- 🔭 I’m currently a Full-stack Software Engineer of Prime Data VN
+- 🔭 I’m currently a Full-stack Software Engineer of PrimeData VN
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
 - 👯 I’m looking to collaborate on Marketing-science based Data Platform
-- 💬 Ask me about Consultant: Java, NodeJS, ReactJS, ReactNative
+- 💬 Ask me about Consultant: Java, NodeJS, NextJS, ReactJS, ReactNative
 - ⚡ Fun fact: enjoy life with coding is real
-- My dream: `while(sleeping){money++;}`
 - 📫 How to reach me: phongnguyen.itengineer@gmail.com
 - 📫 CV: https://nguyenlephong.github.io
 - 📫 My Tools: https://nguyenlephong.github.io/tools
@@ -50,12 +49,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+![Bun](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=bun)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+
 <br/>
 
 ---
@@ -90,6 +86,7 @@
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%2320232a.svg?logo=nextjs&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
