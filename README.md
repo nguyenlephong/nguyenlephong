@@ -33,7 +33,7 @@
 - ⚡ Fun fact: enjoy life with coding is real
 - 📫 How to reach me: phongnguyen.itengineer@gmail.com
 - 📫 CV: https://nguyenlephong.github.io
-- 📫 Youtube Channel: https://www.youtube.com/channel/UCVT2aPzoLT4Qj64VpDBvxuw
+- 📫 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong)
 
 ### 🛠 &nbsp;Languages and Tools
 
