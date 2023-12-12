@@ -49,7 +49,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Bun](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=bun)
+![Bun](https://img.shields.io/badge/-bun-CB3837?style=for-the-badge&logo=bun)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
 
 <br/>
