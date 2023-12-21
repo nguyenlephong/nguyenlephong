@@ -35,6 +35,7 @@
 - 📫 How to reach me: phongnguyen.itengineer@gmail.com
 - 📫 CV: https://nguyenlephong.github.io
 - 📫 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong)
+- 📫 Leetcode: [https://leetcode.com/nguyenlephong/](https://leetcode.com/nguyenlephong/)
 
 ### 🛠 &nbsp;Languages and Tools
 
