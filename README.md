@@ -26,7 +26,8 @@
 </p>
 
 
-- 🔭 I’m currently a Full-stack Software Engineer of PrimeData VN
+- 🔭 I’m currently a Full-stack Software Engineer of [PrimeData VN](https://primedata.ai)
+- 🔭 I’m currently a Front-end Engineer of [Math99th](https://math99th.ai)
 - 🌱 I’m currently staying at home with my family and enjoy coding our Platform
 - 👯 I’m looking to collaborate on Marketing-science based Data Platform
 - 💬 Ask me about Consultant: Java, NodeJS, NextJS, ReactJS, ReactNative
