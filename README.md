@@ -33,7 +33,8 @@
 - 💬 Ask me about Consultant: Java, NodeJS, NextJS, ReactJS, ReactNative
 - ⚡ Fun fact: enjoy life with coding is real
 - 📫 How to reach me: phongnguyen.itengineer@gmail.com
-- 📫 CV: https://nguyenlephong.github.io
+- 📫 CV: [https://nguyenlephong.github.io](https://nguyenlephong.github.io)
+- 📫 CV (pdf): [https://www.overleaf.com/read/gvvswmpybbjz#3cc661](https://www.overleaf.com/read/gvvswmpybbjz#3cc661)
 - 📫 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong)
 - 📫 Leetcode: [https://leetcode.com/nguyenlephong/](https://leetcode.com/nguyenlephong/)
 - 📫 [Buy me a coffee](https://www.buymeacoffee.com/phongnguyen.it)
