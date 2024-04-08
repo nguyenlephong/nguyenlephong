@@ -29,7 +29,7 @@
 
 - 🎯 Email: phongnguyen.itengineer@gmail.com
 - 🎯 CV: [https://nguyenlephong.github.io](https://nguyenlephong.github.io)
-- 🎯 CV (pdf): [https://www.overleaf.com/read/sbqsdsgkpbzv#f46329](https://www.overleaf.com/read/sbqsdsgkpbzv#f46329)
+- 🎯 CV (pdf): [https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635](https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635)
 - 🎯 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong)
 - 🎯 Leetcode: [https://leetcode.com/nguyenlephong/](https://leetcode.com/nguyenlephong/)
 - 🎯 [Buy me a coffee](https://www.buymeacoffee.com/phongnguyen.it)
@@ -46,17 +46,13 @@
 
 ---
 
-## 👉 &nbsp;Technical Skill
-
-#### Languages: Java, JavaScript, TypeScript, HTML/CSS
-
-#### Frameworks: Spring boot, Node.js, Nextjs, Antdesign
-
-#### Developer Tools: Git, Docker, Jenkins, Travis CI
-
-#### Testing: Jest, Cucumber, Puppeteer, Testing Library
-
-#### Other: Responsive Design, Cross-Browser Compatibility, SEO, GraphQL
+### Here are my recent focused hard skills over the past few years:
+- Back-end: Competent in **Java** with the Spring Framework and **Node.js** with a working knowledge of the Express framework.
+- Front-end: Proficient in **React**, utilizing TypeScript, JavaScript, and the **Next.js** framework, and **React Native** with a working knowledge of the Expo platform, as well as proficiency in vanilla JavaScript.
+- Libraries: Seasoned in **Firebase**, Strapi, Directus, React Flow, Redux, **React Query**, and G2plot.
+- Testing : Skilled in Jest, Cucumber, Puppeteer, and Testing Library.
+- Other: In addition, familiar with **Micro-frontend** architecture, Proficiency in Responsive Design, Cross-Browser
+Compatibility, SEO, and GraphQL.
 
 ## 👉 Top projects I've contributed to
 
