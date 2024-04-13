@@ -60,42 +60,14 @@ A real estate-domain startup. I was one of the founding engineers.</br>
 *Key techs:* React, Javascript, WordPress, Material UI
 
 ---
-
-
-# Projects
-
-### Digital SAT Math | Next.js, React, React Native, Antdesign, Docker, GCP, Directus, Stripe | Oct 2023 - Present
-
-👉 Orchestrated product development spanning UI/UX design, product engineering, and user behavior analysis, resulting in a global user base exceeding **10,000** visits and **3,000** signups within two months. </br>
-👉 Elevated Google search rankings through strategic SEO initiatives, including proficiency in **parasite SEO** techniques. These efforts led to significant performance enhancements and effective positioning of the product in alignment with industry peers.</br>
-👉 Demonstrated efficiency and resource optimization in front-end application development by leveraging a single Cloud Run instance with **1 CPU** and a memory limit of **256 MiB**.</br>
-👉 Spearheaded the development of a mobile app with a **mobile-first** approach, enabling rapid deployment to app stores within **two days**. Additionally, ensured seamless **PWA** installation across all devices, enhancing accessibility and user experience.</br>
-👉 Developed **monetization features**, including the integration of **Google Ads** and the implementation of the **Stripe** payment flow, to enhance revenue generation.</br>
-
-### CDxP | React, Next.js, Antdesign, React Native, WordPress, Docker | July 2020 - Apr 2024
-
-👉 Led the architecture and implementation of the CDxP project, focusing on **UI/UX** features, which enhanced the overall user experience and increased user engagement. </br>
-👉 Configured nested routers, maintained a **scalable** project structure, and demonstrated strong knowledge of ES6, Typescript, and data types, which **improved code maintainability** and reduced code-related issues. </br>
-👉 Effectively **tracked errors** and enhancements and provided support for bug fixes, ensuring the project’s **stability**, which improved system reliability and reduced system downtime. </br>
-👉 Implemented **RBAC** hooks to verify authorization for accessing components in adaptive client configurations. Additionally, I have built **over 20 reusable utility features** that can be shared across different projects thanks to their modular design. </br>
-👉 Engineered **10+ advanced features** such as profiles, campaigns, analytics, and more. </br>
-👉 Established robust testing flow, covering core CDP features with **100+ scenarios and 1000+ test cases**. </br>
-👉 Acquired domain expertise and excelled in testing methodologies, including BDD, unit testing, and **E2E testing**, which **improved test coverage** and reduced software bugs by **30%**. </br>
-👉 Developed a **feature flag** for runtime toggling, enabling A/B testing and feature grouping based on customer segments, which optimized feature delivery and increased feature adoption. </br>
-👉 **Documented** components for clarity and ease of maintenance, which improved code readability and reduced maintenance time. </br>
-
-*If you are interested in the project aspect, please visit my portfolio site at [https://nguyenlephong.github.io](https://nguyenlephong.github.io) for a more comprehensive overview.*
-
----
-
 ## 🤝🏻 &nbsp;How to reach me
 
-- 🎯 Email: phongnguyen.itengineer@gmail.com
-- 🎯 CV: [https://nguyenlephong.github.io](https://nguyenlephong.github.io)
-- 🎯 CV (pdf): [https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635](https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635)
-- 🎯 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong)
-- 🎯 Leetcode: [https://leetcode.com/nguyenlephong/](https://leetcode.com/nguyenlephong/)
-- 🎯 [Buy me a coffee](https://www.buymeacoffee.com/phongnguyen.it)
+🎯 Email: phongnguyen.itengineer@gmail.com </br>
+🎯 CV: [https://nguyenlephong.github.io](https://nguyenlephong.github.io) </br>
+🎯 CV (pdf): [https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635](https://www.overleaf.com/read/vmsnqmnmbhsy#1b4635) </br>
+🎯 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong) </br>
+🎯 Leetcode: [https://leetcode.com/nguyenlephong/](https://leetcode.com/nguyenlephong/) </br>
+🎯 [Buy me a coffee](https://www.buymeacoffee.com/phongnguyen.it) </br>
 
 <p>
   <a href="https://www.linkedin.com/in/phongnguyen-it/">
