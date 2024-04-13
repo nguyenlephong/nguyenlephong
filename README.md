@@ -81,17 +81,6 @@ A real estate-domain startup. I was one of the founding engineers.</br>
 
 ---
 
-## 👉 Top projects I've contributed to
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/nguyenlephong/AI-CoTuong"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=AI-CoTuong&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-CoTuong"></a>
-  <a href="https://github.com/nguyenlephong/ThuongMaiDienTu-Frontend"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=ThuongMaiDienTu-Frontend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="ThuongMaiDienTu-Frontend"></a>
-  <a href="https://github.com/nguyenlephong/build-rental-car"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=build-rental-car&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="build-rental-car"></a>
- <a href="https://github.com/nguyenlephong/OOD-GameBoom"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nguyenlephong&repo=OOD-GameBoom&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="OOD-GameBoom"></a>
-</p>
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -123,10 +112,7 @@ A real estate-domain startup. I was one of the founding engineers.</br>
   </a>
 </p>
 
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=algolia&layout=compact" />)
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=gruvbox&layout=compact" />
-</p>
+
 
 ---
 
@@ -141,5 +127,10 @@ A real estate-domain startup. I was one of the founding engineers.</br>
 ### [Wakatime 2021](https://wakatime.com/a-look-back-at-2021/59b42694-26d5-4035-8d80-267d68314570/rvbveuiouh)
 
 ### [Wakatime 2020](https://wakatime.com/a-look-back-at-2020/59b42694-26d5-4035-8d80-267d68314570/rsbdnhiqcv)
+
+[//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=algolia&layout=compact" />)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=gruvbox&layout=compact" />
+</p>
 
 ---
