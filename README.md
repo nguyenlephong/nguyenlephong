@@ -26,8 +26,7 @@ Specializing in the design and implementation of user-friendly web applications,
 
 # Work Experiences
 
-<h4 style="margin: 0; padding: 0">Senior Front-end Engineer</h4>
-<h5 style="margin: 0; padding: 0">PrimeData VN, Binh Thanh (July. 2020 - Apr. 2024)</h5>
+### Senior Front-end Engineer | PrimeData VN, Binh Thanh | July. 2020 - Apr. 2024
 
 The company builds a so-called CDxP product. In brief, it is a data platform that tailor-made to host and process customer profiles (the keystone solution is how would you able to identify and unify your customers data from heterogeneous schemas and formats from diverged services and systems). </br>
 
@@ -40,8 +39,7 @@ The company builds a so-called CDxP product. In brief, it is a data platform tha
 *Key techs:* React, Next.js, Typescript, Antdesign, WordPress, React Native, Nodejs
 
 ---
-<h4 style="margin: 0">Java Developer</h4>
-<h5 style="margin: 0">Splus-Software JSC, Tan Binh (Mar 2019 - July 2020)</h5>
+### Java Developer | Splus-Software JSC, Tan Binh | Mar 2019 - July 2020
 
 An out-sourcing company. Most projects revolve around **mobile and web apps**. </br>
 
@@ -53,8 +51,7 @@ An out-sourcing company. Most projects revolve around **mobile and web apps**. <
 *Key techs:* Java, Spring Framework, React, Next.js, Typescript, Antdesign, WordPress, React Native, Nodejs
 
 ---
-<h4 style="margin: 0">Fresher Front-end Developer</h4>
-<h5 style="margin: 0">Propman Guru, District 2 (May 2018 - Jan 2019)</h5>
+### Fresher Front-end Developer | Propman Guru, District 2 | May 2018 - Jan 2019
 
 A real estate-domain startup. I was one of the founding engineers.</br>
 
