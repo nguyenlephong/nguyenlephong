@@ -10,20 +10,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&lines=Welcome%2C+nice+to+meet+you!;Good+morning.+It%E2%80%99s+a+beautiful+day.;Dear+friend.+I+wish+you+all+the+best+on+this+day.)](https://git.io/typing-svg"></a>
 </p>
 
-<p align="center">
-  As a front-end software engineer with five years of experience, I have developed a strong skill set in designing and implementing user-friendly web applications. My expertise includes proficiency in <strong>HTML, CSS, JavaScript, and React</strong>, as well as a deep understanding of responsive web design and cross-browser compatibility. With a passion for creating intuitive and visually appealing user interfaces, I have successfully delivered projects for a variety of clients in diverse industries. 
-  My attention to detail, ability to work collaboratively, and dedication to keeping up-to-date with the latest trends and technologies have consistently resulted in high-quality, effective solutions.
-</p>
+# Summary
 
-<p align="center">
-  <a href="https://www.youtube.com/@nguyenlephong?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&labelColor=ce4630&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/@nguyenlephong">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&labelColor=c79600&style=for-the-badge"/></a> 
-  <a href="https://github.com/nguyenlephong">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nguyenlephong?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+Possessing a Bachelor's degree in Information Technology, with a minor in Software Engineering, and achieving a commendable classification (**GPA 3.36**), I have cultivated **over five years** of dedicated experience as a **front-end software engineer**. </br>
 
-</p>
+Specializing in the design and implementation of user-friendly web applications, I bring proficiency in HTML, CSS, JavaScript, and React, coupled with a keen expertise in optimizing website performance to accommodate large user bases. My commitment to crafting visually engaging and efficient interfaces has consistently led to successful project deliveries across diverse industries.</br>
+
+*Here are my recent focused hard skills over the past few years:*</br>
+  👉 **Back-end**: Competent in **Java** with the Spring Framework and **Node.js** with a working knowledge of the Express framework.</br>
+  👉 **Front-end**: Proficient in **React**, utilizing TypeScript, JavaScript, and the **Next.js** framework, and **React Native** with a working knowledge of the Expo platform, as well as proficiency in **vanilla JavaScript**.</br>
+  👉 **Libraries**: Seasoned in **Firebase**, Strapi, Directus, React Flow, Redux, React Query, and G2plot.</br>
+  👉 **Testing**: Skilled in **Jest**, **Cucumber**, **Puppeteer**, and Testing Library.</br>
+  👉 **Other**: In addition, familiar with **Micro-frontend** architecture, Proficiency in Responsive Design, Cross-Browser Compatibility, **SEO**, and GraphQL.</br>
+
+
 
 ## 🤝🏻 &nbsp;How to reach me
 
@@ -35,7 +35,7 @@
 - 🎯 [Buy me a coffee](https://www.buymeacoffee.com/phongnguyen.it)
 
 <p>
-  <a href="https://www.linkedin.com/in/phong-nguyen-0107">
+  <a href="https://www.linkedin.com/in/phongnguyen-it/">
     <img src="https://img.shields.io/badge/-nguyenlephong-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
 
@@ -45,14 +45,6 @@
 </p>
 
 ---
-
-### Here are my recent focused hard skills over the past few years:
-- Back-end: Competent in **Java** with the Spring Framework and **Node.js** with a working knowledge of the Express framework.
-- Front-end: Proficient in **React**, utilizing TypeScript, JavaScript, and the **Next.js** framework, and **React Native** with a working knowledge of the Expo platform, as well as proficiency in vanilla JavaScript.
-- Libraries: Seasoned in **Firebase**, Strapi, Directus, React Flow, Redux, **React Query**, and G2plot.
-- Testing : Skilled in Jest, Cucumber, Puppeteer, and Testing Library.
-- Other: In addition, familiar with **Micro-frontend** architecture, Proficiency in Responsive Design, Cross-Browser
-Compatibility, SEO, and GraphQL.
 
 ## 👉 Top projects I've contributed to
 
