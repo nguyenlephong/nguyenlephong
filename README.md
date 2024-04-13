@@ -24,6 +24,45 @@ Specializing in the design and implementation of user-friendly web applications,
   👉 **Other**: In addition, familiar with **Micro-frontend** architecture, Proficiency in Responsive Design, Cross-Browser Compatibility, **SEO**, and GraphQL.</br>
 
 
+# Work Experiences
+
+<h4>Senior Front-end Engineer</h4>
+<h4>PrimeData VN, Binh Thanh (July. 2020 - Apr. 2024)</h4>
+
+The company builds a so-called CDxP product. In brief, it is a data platform that tailor-made to host and process customer profiles (the keystone solution is how would you able to identify and unify your customers data from heterogeneous schemas and formats from diverged services and systems). </br>
+
+*Key Contribution:*
+✍ Led Front-end team, delivering **10+ projects** including CDxP app, Magento & WordPress demos, JS SDKs, mobile SDKs, and more. </br>
+✍ Managed team of **4 members**, aligning with product roadmap to satisfy multiple major partners, enhancing UI/UX and implementing advanced features like 360 profiles and campaign builders. </br>
+✍ Developed lightweight JS SDK with full functionalities (**<200kb, <150ms** load time), facilitating seamless integration across projects. </br>
+✍ Demonstrated rapid **problem-solving**, ensuring swift feature demonstrations to impress clients and investors. </br>
+  
+*Key techs:* React, Next.js, Typescript, Antdesign, Wordpress, React Native, Nodejs
+
+
+<h4>Java Developer</h4>
+<h4>Splus-Software JSC, Tan Binh (Mar 2019 -- July 2020)</h4>
+
+An out-sourcing company. Most projects revolve around **mobile and web apps**. </br>
+
+*Key Contribution:* </br>
+✍ With expertise in the **end-to-end software production process**, I **led a small team**, mastering the phases from requirements gathering to project security, laying the groundwork for future leadership roles. </br>
+✍ Engaging in **8+** diverse projects across **education**, **food and drink**, **banking**, and **e-commerce** domains, I gained invaluable insights into both web and mobile application development.</br>
+✍ As a project mercenary, I secured significant projects like Savyu and Bank Tool, generating over **$20,000** in revenue and earning recognition as the **Best Rookie of the Year** for my impactful contributions.</br>
+
+*Key techs:* Java, Spring Framework, React, Next.js, Typescript, Antdesign, Wordpress, React Native, Nodejs
+
+  
+- **Fresher Front-end Developer**  
+  **Propman Guru**, District 2  
+  *May 2018 -- Jan 2019*
+
+  - A real estate-domain startup. I was one of the founding engineers.
+
+  *Key Contribution:* Initiated involvement in primary web app development as a Front-end Developer. Obtained foundational web development skills, with a specialization in **React JS** and related technologies. Collaborated on responsive design projects, prioritizing enhancements for user experience.
+
+  *Key techs:* React, Javascript, Wordpress, Material UI
+
 
 ## 🤝🏻 &nbsp;How to reach me
 
