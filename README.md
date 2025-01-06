@@ -120,6 +120,8 @@ A real estate-domain startup. I was one of the founding engineers.</br>
 
 [![wakatime](https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg)](https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570)
 
+### [Wakatime 2024](https://wakatime.com/a-look-back-at-2024/59b42694-26d5-4035-8d80-267d68314570/nkrqgdqlrb)
+
 ### [Wakatime 2023](https://wakatime.com/a-look-back-at-2023/59b42694-26d5-4035-8d80-267d68314570/eqkgobxkdw)
 
 ### [Wakatime 2022](https://wakatime.com/a-look-back-at-2022/59b42694-26d5-4035-8d80-267d68314570/vuclxblquu)
