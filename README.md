@@ -30,11 +30,11 @@ Specializing in the design and implementation of user-friendly web applications,
 Senior engineer contributing to Zalo’s core desktop cross-platform apps (Zalo PC) and mobile (Android), delivering impactful features at scale to over **75 million users**.
 
 *Key Contribution:* </br>
-✍ Delivered over **10 features**, including dark mode, a download module, Kiki assistance, logger, tracking, and more, improving UX and engagement.
-✍ Developed a **promotion flow** with integrated tracking and monitoring systems, driving activation success across **15 M+ MAU**
-✍ Led the development of a scalable **design system** using Storybook, ensuring UI consistency and efficiency for **50+ developers**.
-✍ Proactively supported **200+ client users**, swiftly resolving issues with dedication and **effective problem-solving**, earning strong positive feedback.
-✍ Maintained and improved **5+ features** in **Zalo’s Android** app, focusing on stability, performance, and seamless user experience for nearly 80 million users.
+✍ Delivered over **10 features**, including dark mode, a download module, Kiki assistance, logger, tracking, and more, improving UX and engagement. </br>
+✍ Developed a **promotion flow** with integrated tracking and monitoring systems, driving activation success across **15 M+ MAU**. </br>
+✍ Led the development of a scalable **design system** using Storybook, ensuring UI consistency and efficiency for **50+ developers**. </br>
+✍ Proactively supported **200+ client users**, swiftly resolving issues with dedication and **effective problem-solving**, earning strong positive feedback. </br>
+✍ Maintained and improved **5+ features** in **Zalo’s Android** app, focusing on stability, performance, and seamless user experience for nearly 80 million users. </br>
 
 *Key techs:* React.js, Node.js, Typescript, Electron, Kotlin
 
