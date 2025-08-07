@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Phong Nguyen</h1>
-<h3 align="center">Front-end Software Engineer</h3>
+<h3 align="center">Software Engineer II</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenlephong&color=blueviolet&style=flat">
   <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
@@ -12,7 +12,7 @@
 
 # Summary
 
-Possessing a Bachelor's degree in Information Technology, with a minor in Software Engineering, and achieving a commendable classification (**GPA 3.36**), I have cultivated **over six years** of dedicated experience as a **front-end software engineer**. </br>
+Possessing a Bachelor's degree in Information Technology, with a minor in Software Engineering, and achieving a commendable classification (**GPA 3.36**), I have cultivated **over six years** of dedicated experience as a **software engineer**. </br>
 
 Specializing in the design and implementation of user-friendly web applications, I bring proficiency in HTML, CSS, JavaScript, and React, coupled with a keen expertise in optimizing website performance to accommodate large user bases. My commitment to crafting visually engaging and efficient interfaces has consistently led to successful project deliveries across diverse industries.</br>
 
@@ -26,6 +26,18 @@ Specializing in the design and implementation of user-friendly web applications,
 
 # Work Experiences
 
+### Senior Software Engineer | Zalo PC, VNG Corp, VNG Campus | May. 2024 - Aug. 2025
+Senior engineer contributing to Zalo’s core desktop cross-platform apps (Zalo PC) and mobile (Android), delivering impactful features at scale to over **75 million users**.
+
+*Key Contribution:* </br>
+✍ Delivered over **10 features**, including dark mode, a download module, Kiki assistance, logger, tracking, and more, improving UX and engagement.
+✍ Developed a **promotion flow** with integrated tracking and monitoring systems, driving activation success across **15 M+ MAU**
+✍ Led the development of a scalable **design system** using Storybook, ensuring UI consistency and efficiency for **50+ developers**.
+✍ Proactively supported **200+ client users**, swiftly resolving issues with dedication and **effective problem-solving**, earning strong positive feedback.
+✍ Maintained and improved **5+ features** in **Zalo’s Android** app, focusing on stability, performance, and seamless user experience for nearly 80 million users.
+
+*Key techs:* React.js, Node.js, Typescript, Electron, Kotlin
+
 ### Senior Front-end Engineer | PrimeData VN, Binh Thanh | July. 2020 - Apr. 2024
 
 The company builds a so-called CDxP product. In brief, it is a data platform that tailor-made to host and process customer profiles (the keystone solution is how would you able to identify and unify your customers data from heterogeneous schemas and formats from diverged services and systems). </br>
@@ -36,7 +48,7 @@ The company builds a so-called CDxP product. In brief, it is a data platform tha
 ✍ Developed lightweight JS SDK with full functionalities (**<200kb, <150ms** load time), facilitating seamless integration across projects. </br>
 ✍ Demonstrated rapid **problem-solving**, ensuring swift feature demonstrations to impress clients and investors. </br>
   
-*Key techs:* React, Next.js, Typescript, Antdesign, WordPress, React Native, Nodejs
+*Key techs:* React.js, Next.js, Typescript, Antdesign, WordPress, React Native, Nodejs
 
 ---
 ### Java Developer | Splus-Software JSC, Tan Binh | Mar 2019 - July 2020
@@ -57,7 +69,7 @@ A real estate-domain startup. I was one of the founding engineers.</br>
 
 *Key Contribution:* Initiated involvement in primary web app development as a Front-end Developer. Obtained foundational web development skills, with a specialization in **React JS** and related technologies. Collaborated on responsive design projects, prioritizing enhancements for user experience. </br>
 
-*Key techs:* React, Javascript, WordPress, Material UI
+*Key techs:* React.js, Javascript, WordPress, Material UI
 
 ---
 ## 🤝🏻 &nbsp;How to reach me
@@ -119,8 +131,6 @@ A real estate-domain startup. I was one of the founding engineers.</br>
 ## Wakatime current
 
 [![wakatime](https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg)](https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570)
-
-### [Wakatime 2024](https://wakatime.com/a-look-back-at-2024/59b42694-26d5-4035-8d80-267d68314570/nkrqgdqlrb)
 
 ### [Wakatime 2023](https://wakatime.com/a-look-back-at-2023/59b42694-26d5-4035-8d80-267d68314570/eqkgobxkdw)
 
