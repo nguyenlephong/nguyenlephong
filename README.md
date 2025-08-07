@@ -12,7 +12,7 @@
 
 # Summary
 
-Possessing a Bachelor's degree in Information Technology, with a minor in Software Engineering, and achieving a commendable classification (**GPA 3.36**), I have cultivated **over six years** of dedicated experience as a **software engineer**. </br>
+Possessing a Bachelor's degree in Information Technology, with a minor in Software Engineering, and achieving a commendable classification (**GPA 3.36**), I have cultivated **over seven years** of dedicated experience as a **software engineer**. </br>
 
 Specializing in the design and implementation of user-friendly web applications, I bring proficiency in HTML, CSS, JavaScript, and React, coupled with a keen expertise in optimizing website performance to accommodate large user bases. My commitment to crafting visually engaging and efficient interfaces has consistently led to successful project deliveries across diverse industries.</br>
 
